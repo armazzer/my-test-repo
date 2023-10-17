@@ -162,3 +162,4 @@ cython_debug/
 # My files and folders to ignore
 password.txt
 do_not_track/
+test_ignore.txt
